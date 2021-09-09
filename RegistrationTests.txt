@@ -1,0 +1,3 @@
+enter user name
+enter pass word
+click on login
